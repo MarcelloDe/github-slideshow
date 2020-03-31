@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am editing line 5 as per the instructions in activity 7
 Use the left arrow to go back!
 
 Rules to live by for commit messages:
